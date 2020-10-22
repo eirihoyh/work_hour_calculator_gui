@@ -5,6 +5,7 @@ from openpyxl import load_workbook
 
 
 class Worker:
+    
     hours = None
     start_minutes = None
     end_minutes = None
